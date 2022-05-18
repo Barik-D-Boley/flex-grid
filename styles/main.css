@@ -1,0 +1,23 @@
+.flex-grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (25%)[auto-fill];
+      grid-template-columns: repeat(auto-fill, 25%);
+  row-gap: 1.1rem;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+div {
+  width: 100vw;
+}
+
+div div {
+  margin: 0 auto;
+  text-align: center;
+  width: 30rem;
+  max-width: 90vw;
+  background-color: gray;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,sBAAsB;EAC7C,OAAO,EAAE,MAAM;EACf,eAAe,EAAE,aAAa;CACjC;;ACLD,AAAA,GAAG,CAAC;EACA,KAAK,EAAE,KAAK;CAQf;;AATD,AAEI,GAFD,CAEC,GAAG,CAAC;EACA,MAAM,EAAE,MAAM;EACd,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI;EACf,gBAAgB,EAAE,IAAI;CACzB",
+    "sources": [
+        "main.scss",
+        "_flexGrid.scss",
+        "_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
